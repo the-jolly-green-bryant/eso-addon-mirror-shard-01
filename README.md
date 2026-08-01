@@ -16,5 +16,4 @@ Each leaf includes `addon.json`, whose shape follows the Bethesda catalog model 
 
 This is an unofficial preservation project and is not endorsed by Bethesda Softworks, ZeniMax Online Studios, or ESOUI/MMOUI. Add-ons remain the work of their respective authors and retain their own licenses. Inclusion here does not grant a new redistribution license. Attribution and takedown concerns should be reported through the control repository.
 
-The MIT license in the control repository applies to the mirroring software, not automatically to archived add-on content.
-
+The transparency-only license in the control repository applies to the mirroring software, not automatically to archived add-on content.
